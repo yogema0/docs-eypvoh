@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-g5mpu7.indcuan.sbs/sitemap.xml
